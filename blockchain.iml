@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="google.code.gson" level="project" />
+    <orderEntry type="library" name="bouncycastle.bcprov.jdk15on" level="project" />
   </component>
 </module>
